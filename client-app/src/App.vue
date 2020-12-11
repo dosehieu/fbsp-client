@@ -1,6 +1,9 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <h2>test cais</h2>
+  <h2>test cais</h2>
+  <h2>test cais</h2>
+  <h2>test cais</h2>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
